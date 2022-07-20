@@ -1,4 +1,4 @@
-Olá! Eu sou Renessa Cerqueira.
+##Olá! Eu sou Renessa Cerqueira.
 
 <div align="center">
     <a href="https://github.com/srenessa">
@@ -7,6 +7,8 @@ Olá! Eu sou Renessa Cerqueira.
         <img height="180em"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=srenessa&layout=compact&langs_count=7&theme=dracula" />
 </div>
+
+##
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Renessa-Js" height="30" width="40"
